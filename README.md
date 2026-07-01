@@ -10,8 +10,8 @@
 - Unit: **Estec Digital**
 - Project Manager: **Mr. Phu Tran Quang**
 - Counseling experts: **Mr. Tony Do**
-- AI and Backend Engineer: **Mr. Hoan Vo Ly Hoang, Mr. Kiet Pham Anh**
-- BA and Tester Engineer: **Mr. Thang Doan Ngoc Minh, Mr. Nguyen Hoang Tan**
+- AI and Backend Engineer: **Mr. Hoan Vo Ly Hoang, Mr. Kiet Pham Anh, Mr. Bao Tran Nguyen**
+- BA and Tester Engineer: **Mr. Thang Doan Ngoc Minh, Mr. Nguyen Hoang Tan, Mr. Bao Tran Nguyen**
 - Frontend Engineer: **Mr. Huy Ho Nhat, Mr. Bao Tran Nguyen**
 ## 4. Step by step: ➡️
 - Step 1: Run "**npm install**" to install all neccessary packages in package-lock
